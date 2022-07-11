@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
  # DMMWEBCAMPコンテンツ
- アプリケーションを完成させようという研修課題です。
+ アプリケーションを完成させようの研修課題です。
