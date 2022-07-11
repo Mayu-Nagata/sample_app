@@ -22,5 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-#DMMWEBCAMP研修課題
-アプリケーションを完成させようという課題です。
